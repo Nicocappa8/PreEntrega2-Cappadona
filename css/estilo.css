@@ -1,0 +1,74 @@
+/*CSS*/
+h1 {
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}
+
+.imagen {
+    text-align: center;
+}
+
+.img {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.link {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.Star {
+    color: green;
+}
+
+.Ena {
+    color: gold;
+}
+
+.Xtren {
+    color: violet;
+}
+
+.envio {
+    text-align: center;
+}
+
+.suplementos {
+    text-align: center;
+}
+
+li {
+    display: inline;
+}
+/*Formulario*/
+form {
+    text-align: center;
+    margin-left: 700px;
+    margin-right: 700px;
+    border: solid 2px black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+nav {
+    background-color: bisque;
+    margin-right: 600px;
+    margin-left: 600px;
+}
+
+a {
+    color: gray;
+    text-decoration: none;
+    text-transform: uppercase;
+}
