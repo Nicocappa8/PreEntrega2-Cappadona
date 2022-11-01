@@ -72,3 +72,9 @@ a {
     text-decoration: none;
     text-transform: uppercase;
 }
+
+@media (max-width: 600px) {
+    .hus { 
+        color: brown;
+    }
+}
