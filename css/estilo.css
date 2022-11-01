@@ -63,8 +63,6 @@ form {
 
 nav {
     background-color: bisque;
-    margin-right: 600px;
-    margin-left: 600px;
 }
 
 a {
@@ -74,7 +72,7 @@ a {
 }
 
 @media (max-width: 600px) {
-    .hus { 
-        color: brown;
+    .navegador {
+        color: green;
     }
 }
