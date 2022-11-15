@@ -1,0 +1,49 @@
+/*SCSS*/
+
+@import "variables";
+@import "mixin";
+
+h1, nav, .imagen, img, p, .link, h2 {
+    text-align: center;
+  }
+  
+  .Star {
+    color: green;
+  }
+  
+  .Ena {
+    color: gold;
+  }
+  
+  .Xtren {
+    color: violet;
+  }
+  
+  .envio, .suplementos {
+    text-align: center;
+  }
+  
+  li {
+    display: inline;
+  }
+  
+  nav {
+    background-color: bisque;
+  }
+  
+  a {
+    color: gray;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  
+  div.container {
+    width: 96%;
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  
+  img {
+    width: 20%;
+    height: auto;
+  }
